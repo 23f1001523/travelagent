@@ -1,0 +1,9 @@
+flask
+flask-sqlalchemy
+flask-security-too
+flask-restful
+flask-cors
+flask_caching
+argon2_cffi
+google-genai
+redis
